@@ -1,2 +1,3 @@
 # js
-A code repo of java script practise
+
+This is code repot of js practise
